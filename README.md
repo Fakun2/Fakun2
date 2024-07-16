@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fakun2
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning in University. I want to learn to program through courses
-- 💞️ I’m looking to collaborate on Globant 
 - 📫 How to reach me: @nosafacundo or facu_nosa on instagram
 - 😄 Pronouns: idk
 
