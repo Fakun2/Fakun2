@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo Nosa</h1>
-<h3 align="center">A passionate Web Development student from Argentina 🌎</h3>
+<h3 align="center"> A passionate Web Development student from Tucumán, Argentina </h3>
 
 ---
 
